@@ -59,9 +59,9 @@ printf("Adress p+1 is %d\n", p + 1); // p+1 is 2006
 
 ## Understanding bytes in memory
 
-    In a computer's memory, a **byte** is a unit of data that is typically composed of **8 bits**. Bytes are often used to represent a character such as a **letter**, **number**, or symbol in a computer's memory.
+In a computer's memory, a **byte** is a unit of data that is typically composed of **8 bits**. Bytes are often used to represent a character such as a **letter**, **number**, or symbol in a computer's memory.
 
-    **Binary** is the language that is used to encode data. A binary digit, or **bit**, is the basic unit of information in computing and digital communications. A bit has a single binary **value of either 0 or 1**.
+**Binary** is the language that is used to encode data. A binary digit, or **bit**, is the basic unit of information in computing and digital communications. A bit has a single binary **value of either 0 or 1**.
 
 ![asdf](/pics/2.png)
 
