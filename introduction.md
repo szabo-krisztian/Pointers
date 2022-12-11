@@ -57,7 +57,7 @@ In a computer's memory, a **byte** is a unit of data that is typically composed 
 
 **Binary** is the language that is used to encode data. A binary digit, or **bit**, is the basic unit of information in computing and digital communications. A bit has a single binary **value of either 0 or 1**.
 
-![asdf](2.png)
+![asdf](/pics/2.png)
 
 ```c
 int a = 1025;
