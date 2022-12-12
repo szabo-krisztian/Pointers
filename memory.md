@@ -8,8 +8,8 @@ Memory can be either <span style="color:purple">volatile</span> or <span style="
 
 # The language of computers
 
-**Binary code** is how computers talk and represent information. Letters, numbers, and pictures…. basically everything you see on the computer (including this post) is made up of different combinations of **0's and 1's**. Binary numbers are **base 2 numbers**, and have only two values – 0 and 1. If we look at a binary number like 01010101, it's decimal form would be: \
->(0 * 2<sup>7</sup>) + (1 * 2<sup>6</sup>) + (0 * 2<sup>5</sup>) + (1 * 2<sup>4</sup>) + (0 * 2<sup>3</sup>) + (1 * 2<sup>2</sup>) + (0 * 2<sup>1</sup>) + (1 * 2<sup>0</sup>) \
+**Binary code** is how computers talk and represent information. Letters, numbers, and pictures…. basically everything you see on the computer (including this post) is made up of different combinations of **0's and 1's**. Binary numbers are **base 2 numbers**, and have only two values – 0 and 1. If we look at a binary number like 01010101, it's decimal form would be:
+<br />(0 * 2<sup>7</sup>) + (1 * 2<sup>6</sup>) + (0 * 2<sup>5</sup>) + (1 * 2<sup>4</sup>) + (0 * 2<sup>3</sup>) + (1 * 2<sup>2</sup>) + (0 * 2<sup>1</sup>) + (1 * 2<sup>0</sup>) \
 = 64 + 16 + 4 + 1 = `85` 
 
 <br />
@@ -20,9 +20,7 @@ Memory can be either <span style="color:purple">volatile</span> or <span style="
 
 # Units of memory
 A computer processor is made up of multiple decisive circuits, each one of which may be either <span style="color:red">OFF</span> or <span style="color:green">ON</span>. These two states in terms of memory are represented by a <span style="color:red">0</span> or <span style="color:green">1</span>. In order to count higher than 1, such bits (binary digits) are suspended together. A group of **eight bits** is known as a **byte**.
-<br />
->1 byte can represent numbers between zero (00000000) and 255 (11111111), or 2<sup>8</sup> = 256 distinct positions.
+**1 byte can represent numbers between zero (00000000) and 255 (11111111), or 2<sup>8</sup> = 256 distinct positions**. Of course, these bytes may also be combined to represent larger numbers. The computer represents all characters and numbers internally in the same fashion.
 
-Of course, these bytes may also be combined to represent larger numbers. The computer represents all characters and numbers internally in the same fashion. 
 
 
