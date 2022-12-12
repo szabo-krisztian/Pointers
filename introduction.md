@@ -1,12 +1,11 @@
 # Pointers
 
-In C/C++ programming, a pointer is a **variable that stores the memory address of another variable**. Pointers are used to store the addresses of other variables or **memory locations**, and they can be used to indirectly access the stored data.
+In C/C++ programming, a pointer is a **variable that stores the memory addresse of another variable or memory location**, and they can be used to indirectly access the stored data.
 
-1. A pointer variable stores the **memory address** of another variable.
-2. Pointers are declared by placing an asterisk "**`*`**" in front of the variable name.
-3. The "**`&`**" operator is used to obtain the memory address of a variable.
-4. The "**`*`**" operator is used to indirectly access the value stored at a memory address.
-5. Pointers can be used to efficiently pass large amounts of data to functions and to manipulate dynamic data structures such as linked lists and trees.
+1. Pointers are declared by placing an asterisk "**`*`**" in front of the variable name.
+2. The "**`&`**" operator is used to obtain the memory address of a variable.
+3. The "**`*`**" operator is used to indirectly access the value stored at a memory address.
+4. Pointers can be used to efficiently pass large amounts of data to functions and to manipulate dynamic data structures such as linked lists and trees.
 
 ## How to work with pointers:
 
@@ -88,5 +87,15 @@ the first and only byte of pointer p0 is 00000001, which represents the value 1 
 */
 ```
 
+## Pointer to pointer
+
+In C programming, a pointer to a pointer is a type of variable that stores the address of another pointer variable. This can be useful when we want to pass a pointer to a function as an argument, or when we want to store a pointer in another data structure, such as an array.
+
+```c
+int x = 5;
+int* p = &x;
+int** q = &p;
 
 
+
+```
