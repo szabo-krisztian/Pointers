@@ -15,13 +15,11 @@ Memory can be either volatile or non-volatile. Volatile memory is a type of memo
 <br />
 
 <p align="center" width="100%">
-    <img width="60%" src="./pics/Untitled.png">
+    <img width="60%" src="./pics/binary_numbers.jpg">
 </p>
 
 # Units of memory
 
 <img align="right" width="30%" height="30%" src="./pics/bits.png" alt="RAM">
-<br />
-<br />
 A computer processor is made up of multiple decisive circuits, each one of which may be either OFF or ON. These two states in terms of memory are represented by a 0 or 1. In order to count higher than 1, such bits (binary digits) are suspended together. A group of **eight bits** is known as a **byte**.
 **1 byte can represent numbers between zero (00000000) and 255 (11111111), or 2<sup>8</sup> = 256 distinct positions**. Of course, these bytes may also be combined to represent larger numbers. The computer represents all characters and numbers internally in the same fashion.
