@@ -4,7 +4,7 @@
 Memory of a computer is any physical device that is capable of storing information whether it is large or small, and stores it temporarily (such as RAMs) or permanently (such as SSDs). 
 
 \
-Memory can be either <span style="color:purple">volatile</span> or <span style="color:orange"> non-volatile </span> . Volatile memory is a type of memory that <span style="color:orange">loses its contents when the computer or hardware device is switched off</span>. On the other hand, non-volatile storage is a type of computer memory that <span style="color:purple">can retain stored information even after power is removed</span>.
+Memory can be either volatile or non-volatile. Volatile memory is a type of memory that loses its contents when the computer or hardware device is switched off. On the other hand, non-volatile storage is a type of computer memory that can retain stored information even after power is removed.
 
 # The language of computers
 
@@ -19,8 +19,9 @@ Memory can be either <span style="color:purple">volatile</span> or <span style="
 </p>
 
 # Units of memory
-A computer processor is made up of multiple decisive circuits, each one of which may be either <span style="color:red">OFF</span> or <span style="color:green">ON</span>. These two states in terms of memory are represented by a <span style="color:red">0</span> or <span style="color:green">1</span>. In order to count higher than 1, such bits (binary digits) are suspended together. A group of **eight bits** is known as a **byte**.
+
+<img align="right" width="30%" height="30%" src="./pics/bits.png" alt="RAM">
+<br />
+<br />
+A computer processor is made up of multiple decisive circuits, each one of which may be either OFF or ON. These two states in terms of memory are represented by a 0 or 1. In order to count higher than 1, such bits (binary digits) are suspended together. A group of **eight bits** is known as a **byte**.
 **1 byte can represent numbers between zero (00000000) and 255 (11111111), or 2<sup>8</sup> = 256 distinct positions**. Of course, these bytes may also be combined to represent larger numbers. The computer represents all characters and numbers internally in the same fashion.
-
-
-
